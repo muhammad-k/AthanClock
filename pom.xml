@@ -20,7 +20,22 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.1.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>net.alhazmy13.PrayerTimes</groupId>
+            <artifactId>library</artifactId>
+            <version>1.0.1-beta</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.apis</groupId>
+            <artifactId>google-api-services-texttospeech</artifactId>
+            <version>v1-rev40-1.25.0</version>
+        </dependency>
+
     </dependencies>
+
+
 
 
 </project>
